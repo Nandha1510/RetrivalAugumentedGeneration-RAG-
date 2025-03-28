@@ -20,4 +20,4 @@ With an interactive **Streamlit UI**, this tool offers seamless document process
 🔹 Provides **accurate and relevant** responses in real-time.  
 🔹 Enhances **decision-making** in research with AI-powered insights.  
 
-By **combining NLP, vector search, and deep learning**, DeepDive AI redefines how researchers interact with academic literature, making the research process **smarter, faster, and more efficient**. 🚀
+By **combining NLP, vector search, and deep learning**, DeepDive AI redefines how researchers interact with academic literature, making the research process **smarter, faster, and more efficient**. 
